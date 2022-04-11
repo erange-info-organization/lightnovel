@@ -1,1 +1,6 @@
 # lightnovel
+
+GNU GENERAL PUBLIC LICENSE
+の代理に
+LICENSE_CC BY-SA 4.0
+を指定する。

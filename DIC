@@ -19,11 +19,11 @@ DIC(i.chara o.chara)
     retern o  };
  case メイン
  {
-    o ＝ 中枢
+    o ＝ 中心部
     retern o  };    
  case バックアップ 
   {
-    o ＝ 補助
+    o ＝ 補助部
     retern o  };
  
     

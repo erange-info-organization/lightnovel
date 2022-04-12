@@ -13,8 +13,19 @@ DIC(i.chara o.chara)
  {
     o ＝ 魔力
     retern o  };
-    
-    
+ case システム 
+  {
+    o ＝ 魔法機構
+    retern o  };
+ case メイン
+ {
+    o ＝ 中枢
+    retern o  };    
+ case バックアップ 
+  {
+    o ＝ 補助
+    retern o  };
+ 
     
     
   o = Error  

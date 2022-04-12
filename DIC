@@ -5,11 +5,11 @@ DIC(i.chara o.chara)
 
   switch( i != null  )
  {
-  case 1　( i == 指令 )
+ case 指令 
   {
     o ＝ 伝令
     retern o  };
- case 2 ( i == 電力)
+ case 電力
  {
     o ＝ 魔力
     retern o  };

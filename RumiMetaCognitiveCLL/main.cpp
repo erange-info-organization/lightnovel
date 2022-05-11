@@ -1,7 +1,5 @@
 ﻿#include <cstdio>
 
-jmp_buf buf;
-
 class Rumi
 {
 public:
